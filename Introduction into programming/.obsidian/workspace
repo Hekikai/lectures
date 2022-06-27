@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "91c32ea1017781f4",
+        "id": "a18ca936c1a89b92",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Intro/2 часть.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intro/2 часть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91c32ea1017781f4",
+  "active": "a18ca936c1a89b92",
   "lastOpenFiles": [
+    "Intro/2 часть.md",
+    "Intro/1 часть.md",
     "1 часть.md"
   ]
 }
