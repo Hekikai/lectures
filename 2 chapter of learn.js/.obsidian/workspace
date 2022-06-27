@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5150aa79c7a3d931",
+    "type": "split",
+    "children": [
+      {
+        "id": "4468b97b787da38d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Загрузка документов и ресурсов/Скрипты async и defer.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b44e900cb3b53c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3df6d30c4f2aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab6436511b8ab3f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc7bae90c1acee76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277
+  },
+  "right": {
+    "id": "5899fa1855d71d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "068e583fd0183926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c6089684c274a51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Загрузка документов и ресурсов/Скрипты async и defer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4468b97b787da38d",
+  "lastOpenFiles": [
+    "Загрузка документов и ресурсов/Скрипты async и defer.md",
+    "Загрузка документов и ресурсов/Загрузка ресурсов. onload и onerror.md",
+    "Событийный цикл. Микрозадачи и макрозадачи.md",
+    "Загрузка документов и ресурсов/DOMContentLoaded, load, beforeunload, unload.md",
+    "Интерфейсные события/Drag'n'Drop.md",
+    "Интерфейсные события/Прокрутка.md",
+    "Спросить.md",
+    "Формы, элементы управления/Отправка формы. Метод submit.md",
+    "Формы, элементы управления/change, input, copy, cut, paste.md",
+    "Формы, элементы управления/Фокусировка. focus, blur.md"
+  ]
+}

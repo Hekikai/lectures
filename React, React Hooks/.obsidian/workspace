@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "43199325b345506e",
+    "type": "split",
+    "children": [
+      {
+        "id": "125fb74374af48bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Продвинутые темы/2. Разделение кода.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0e043f8e26256b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2253e9ad5410b920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecc8179371ee1c58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc66e3b55cb9e966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df4fcee5dd219035",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2d55ce4547b841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cbf85c1ecfec454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Продвинутые темы/2. Разделение кода.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "125fb74374af48bd",
+  "lastOpenFiles": [
+    "Продвинутые темы/2. Разделение кода.md",
+    "Продвинутые темы/1. Доступность контента.md",
+    "Продвинутые темы/16. Рефы и DOM.md",
+    "Hooks/5. Создание пользовательских хуков.md",
+    "Hooks/3. useContext.md",
+    "Hooks/4. Правила хуков.md",
+    "Hooks/1. useState.md",
+    "Hooks/2. useEffect.md"
+  ]
+}

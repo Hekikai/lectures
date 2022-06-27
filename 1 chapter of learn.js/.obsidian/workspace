@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "686df95b39112a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2816f2589092bcd5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b3492da2db9f733",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3bf12bbee6ce76d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3713d7e069b9c155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5649da40714990a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Содержание",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "21269ff8bd8d0050",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f261479148482a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e29602b0f548fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "2816f2589092bcd5",
+  "lastOpenFiles": [
+    "Замыкание/Замыкание.md",
+    "Преобразование типов.md",
+    "Прототипы, наследование/Методы прототипов, объекты без свойства __proto__.md",
+    "Прототипы, наследование/Встроенные прототипы.md",
+    "Прототипы, наследование/F.prototype.md",
+    "Прототипы, наследование/Прототипное наследование.md",
+    "_Tasks.md",
+    "Замыкания и области видимости/YDKJS.md",
+    "Деструктурирующее присваивание.md",
+    "Дата, время/Дата и время.md"
+  ]
+}

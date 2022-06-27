@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Прототипы, наследование\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Асинхрон, запросы\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Дата, время\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Свойства объекта\"",
+      "color": {
+        "a": 1,
+        "rgb": 11522059
+      }
+    },
+    {
+      "query": "path:\"Структуры данных\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711880
+      }
+    },
+    {
+      "query": "path:\"Функции, контекст\"",
+      "color": {
+        "a": 1,
+        "rgb": 16418181
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 3.15561797752809,
+  "lineSizeMultiplier": 2.32977528089888,
+  "collapse-forces": true,
+  "centerStrength": 0.202247191011236,
+  "repelStrength": 9.7752808988764,
+  "linkStrength": 1,
+  "linkDistance": 310,
+  "scale": 0.36288736930121357,
+  "close": true
+}

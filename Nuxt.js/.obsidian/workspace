@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "8fbda8a042c3e525",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0d3363f5b68731",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Базовые вещи.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d670882704fc80db",
+    "type": "split",
+    "children": [
+      {
+        "id": "0901971a49363b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f9e10480f7168d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45dce06a5c6e3a17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "585793ce46a72ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ee49517f59d2c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e2469884b6637b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Базовые вещи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab0d3363f5b68731",
+  "lastOpenFiles": [
+    "1. Базовые вещи.md"
+  ]
+}

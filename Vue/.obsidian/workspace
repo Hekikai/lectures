@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e457c8d91e988c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ef26b1c9094a0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Composition API/8. Render - функции.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "866b3e1245bb7b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4879d42a9bfb24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27963ccb96118a03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3244f1564a0b937",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72e873f1b53322df",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbcb2aa1121a882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c669d4f83e001b48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Composition API/8. Render - функции.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "05ef26b1c9094a0d",
+  "lastOpenFiles": [
+    "Composition API/8. Render - функции.md",
+    "Composition API/Pasted image 20220424105412.png",
+    "Composition API/6. Пользовательские директивы.md",
+    "Composition API/7. Телепорты.md",
+    "Продвинутые компоненты/4. Пользовательские события.md",
+    "Продвинутые компоненты/5. Слоты.md",
+    "Основы/6. Работа с классами и стилями.md",
+    "Composition API/5. Примеси (mixins).md",
+    "Composition API/4. Ссылки на элементы шаблона.md",
+    "Composition API/2. Хуки жизненного цикла.md"
+  ]
+}

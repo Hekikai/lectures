@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "5143089d2ce42201",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c32ea1017781f4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3665806543ff796a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccba12cef523ddf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e52aff57c0b1ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "482f8d5589858a53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8157b4fb85a4c4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "526da3288aac7621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93bfc5ca96857a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91c32ea1017781f4",
+  "lastOpenFiles": [
+    "1 часть.md"
+  ]
+}

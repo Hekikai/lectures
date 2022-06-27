@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e26d6f6df3aa0205",
+    "type": "split",
+    "children": [
+      {
+        "id": "6147f88888834af6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Весь нужный CSS/8.14 Селекторы.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de317aaec1a0c997",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7bd14a43f60fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91da75ce45c7d206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd8da9097cd48ebd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "cb94539e009436ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d0d0fd82f0ddedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57a8dfcdbc44208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Весь нужный CSS/8.14 Селекторы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6147f88888834af6",
+  "lastOpenFiles": [
+    "Весь нужный CSS/8.14 Селекторы.md",
+    "Весь нужный CSS/ЧЕК-ЛИСТ.md",
+    "Весь нужный CSS/8.16 Правила форматирования CSS.md",
+    "Весь нужный CSS/8.1 Единицы измерения.md",
+    "Весь нужный CSS/8.2 Все значения свойства display.md",
+    "Весь нужный CSS/8.9 Свойство box-sizing.md",
+    "Весь нужный CSS/8.4 Свойство position.md",
+    "Регулярные выражения/7.8 Наборы и диапазоны.md",
+    "Регулярные выражения/7.7 Экранирование символов.md",
+    "Регулярные выражения/7.6 Граница слова.md"
+  ]
+}
