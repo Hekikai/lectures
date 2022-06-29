@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "d20a3e25910ed991",
+    "type": "split",
+    "children": [
+      {
+        "id": "337bab87ed3a80c6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60ab51f1d3ea5428",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc73f07ba927acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b4aa76852055ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87a5a3718bea9def",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9958c11ad090e919",
+    "type": "split",
+    "children": [
+      {
+        "id": "1904ecca15bed130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e0c4e7182a8eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "337bab87ed3a80c6",
+  "lastOpenFiles": [
+    "1. Установка.md",
+    "2. Mixins.md",
+    "Без названия.md"
+  ]
+}
