@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Углубляемся в систему типов.md",
+            "file": "Basics/3. More on Functions.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7cd0f0de5ae717e1",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Углубляемся в систему типов.md",
+                "file": "Basics/3. More on Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,10 +89,11 @@
   },
   "active": "e5523727fb439702",
   "lastOpenFiles": [
-    "Basics/Углубляемся в систему типов.md",
-    "Basics/Типы.md",
+    "Basics/3. More on Functions.md",
+    "Basics/2. Narrowing.md",
+    "Basics/1. Everyday Types.md",
+    "Introduction.md",
     "Basics/Перегрузка функций.md",
-    "Basics/Классы. Модификаторы доступа.md",
-    "Introduction.md"
+    "Basics/Классы. Модификаторы доступа.md"
   ]
 }
